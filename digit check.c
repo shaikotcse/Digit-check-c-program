@@ -16,7 +16,7 @@ int main()
     
     scanf("%c",&ch);
     
-  if(ch>='0' & ch<='10'){
+  if(ch>='0' && ch<='10'){
         
         printf("u enter number of digit\n");
     }
